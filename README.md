@@ -1,1 +1,2 @@
-# harshwardhan432.github.io
+# MSML 602
+### Harshwardhan Singh Rathore
